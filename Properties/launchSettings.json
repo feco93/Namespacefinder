@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Namespacefinder": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\sipos\\source\\repos\\Platinum\\SystemTests\\Deltafs.Platinum.Web.AcceptanceTests\\bin\\Debug\\Deltafs.Platinum.Web.AcceptanceTests.dll \"C:\\Users\\sipos\\Downloads\\Platinum_CreateTestJobs.groovy\""
+    }
+  }
+}
